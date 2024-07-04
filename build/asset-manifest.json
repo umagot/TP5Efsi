@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TP5Efsi/static/css/main.e387e1c5.css",
+    "main.js": "/TP5Efsi/static/js/main.74d77760.js",
+    "index.html": "/TP5Efsi/index.html",
+    "main.e387e1c5.css.map": "/TP5Efsi/static/css/main.e387e1c5.css.map",
+    "main.74d77760.js.map": "/TP5Efsi/static/js/main.74d77760.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e387e1c5.css",
+    "static/js/main.74d77760.js"
+  ]
+}
